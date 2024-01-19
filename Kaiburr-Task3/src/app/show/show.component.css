@@ -1,11 +1,9 @@
-/* show.component.css */
-
 .table-container {
   margin-top: 2rem;
 }
 
 .table {
-  width: 75%; /* Adjust the width as needed */
+  width: 75%;
   border-collapse: collapse;
   background-color: #fff;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -44,7 +42,6 @@ margin-left: 180px;
   text-align: center;
 }
 
-/* Additional Style */
 
 .table-content {
   background-color: #fff;
