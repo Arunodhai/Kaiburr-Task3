@@ -1,0 +1,29 @@
+.header-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.header-title {
+  font-size: 3em;
+  color: #000000;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mat-toolbar {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #000000;
+}
+
+.mat-toolbar a {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.1s ease;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.mat-toolbar a:hover {
+  background-color: #2c2c2c;
+}

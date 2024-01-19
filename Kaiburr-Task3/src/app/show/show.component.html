@@ -1,0 +1,26 @@
+<div class="container table-container">
+  <div class="col-8 mx-auto">
+    <table class="table">
+      <thead class="table-header">
+        <tr>
+          <th>Name</th>
+          <th>ID</th>
+          <th>Assignee</th>
+          <th>Project</th>
+          <th>Start Time</th>
+          <th>arunodhaiVProperty</th> <!-- Add this line -->
+        </tr>
+      </thead>
+      <tbody class="table-content">
+        <tr *ngFor="let task of tasks">
+          <td>{{ task.name }}</td>
+          <td>{{ task.id }}</td>
+          <td>{{ task.assignee }}</td>
+          <td>{{ task.project }}</td>
+          <td>{{ task.startTime }}</td>
+          <td>{{ task.arunodhaiVProperty }}</td> <!-- Add this line -->
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
