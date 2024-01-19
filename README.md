@@ -24,3 +24,33 @@ This web UI frontend is designed using Angular Framework for interacting with th
 
 ### Viewing the newly created task in mongoDB atlas
 <img width="1440" alt="Viewing task in mongodb" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/19b22abd-82ea-4f4d-988f-1b98cce5534f">
+
+### Showing Tasks UI
+<img width="1440" alt="Showing Tasks UI" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/462327d6-a563-49f9-b229-d52dfaffcbe1">
+
+### Searching task by ID
+<img width="1440" alt="Search by ID" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/fa6df232-5341-4ab8-8cfc-553c9f058349">
+
+### Searching task by the Name of the task
+<img width="1440" alt="Search by Name" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/2dde3d74-4158-45c9-978f-4371dcc4f690">
+
+### Searching first 10 tasks by Assignee
+<img width="1440" alt="Search first 10 tasks by Assignee" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/c0e890c1-cb06-4fb4-b0c8-53efe3e7cec1">
+
+### Delete Task UI
+<img width="1440" alt="Delete Task UI" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/9a8838f6-c7ba-4317-8aff-56cd38319a5b">
+
+### Task deleted successfully
+<img width="1440" alt="Task deleted" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/13e0b0c9-124e-48ae-99b0-8c374d860fef">
+
+### Showing remaining tasks after deletion
+<img width="1440" alt="Showing remaining tasks after deletion" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/a3d0723b-acb3-4644-bb8f-05b20090dd5e">
+
+### Viewing remaining tasks in mongoDB
+<img width="1440" alt="Viewing remaining task in mongodb" src="https://github.com/Arunodhai/Kaiburr-Task3/assets/60264218/adacb2b7-0bcb-4431-abce-0c31e6c05f63">
+
+
+
+
+
+
