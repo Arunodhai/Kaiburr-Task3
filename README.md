@@ -1,4 +1,4 @@
-# Web UI for Springboot Application using API
+# Springboot Web UI Application for creating, showing, searching, and deleting task records using API
 
 ## Overview
 This web UI frontend is designed using Angular Framework for interacting with the Springboot Task API. It allows users to perform operations such as creating, showing, searching, and deleting task records.
