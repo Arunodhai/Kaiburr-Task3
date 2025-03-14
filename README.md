@@ -1,7 +1,7 @@
-# Kaiburr Task 3 : Web UI for Springboot Task API
+# Web UI for Springboot Application using API
 
 ## Overview
-This web UI frontend is designed using Angular Framework for interacting with the Springboot Task API application (created in Task 1) . It allows users to perform operations such as creating, showing, searching, and deleting task records.
+This web UI frontend is designed using Angular Framework for interacting with the Springboot Task API. It allows users to perform operations such as creating, showing, searching, and deleting task records.
 
 ## Features
 - **Create Tasks:** Add new task to the application.
